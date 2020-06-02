@@ -1,3 +1,5 @@
+
+adding something at the beginning fro stash example
 one more file created now
 changing from mybranch
 adding new feature branch addingmore change
